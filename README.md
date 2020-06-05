@@ -1,2 +1,2 @@
 # Jam-game-pikabu
- from discord
+ игра для Jam на сервере PGD 
